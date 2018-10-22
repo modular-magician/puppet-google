@@ -479,10 +479,6 @@ Detailed information can be found at the
 The list below is a summary of the supported types by the module:
 
 
-- `gresourcemanager_project`
-  Represents a GCP Project. A project is a container for ACLs, APIs, App
-  Engine Apps, VMs, and other Google Cloud Platform resources.
-
 ### Google Spanner
 Detailed information can be found at the
 [google-gspanner][] project home page.
